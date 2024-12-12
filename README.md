@@ -25,7 +25,6 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 
 <img src="https://raw.githubusercontent.com/Namanv0509/Namanv0509/output/snake.svg" alt="Snake animation" />
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks]([https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN)))
-###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
