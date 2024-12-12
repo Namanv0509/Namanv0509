@@ -26,7 +26,7 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 <img src="https://raw.githubusercontent.com/Namanv0509/Namanv0509/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <a href="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317ctp2adp6nqpm4voz54iyxft4y&width={width})">
+  <a href="[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317ctp2adp6nqpm4voz54iyxft4y&width={width})](https://spotify-github-profile.kittinanx.com)">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Naman%20Verma&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
