@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning how Machines Learn <br>Currently working my way to open source <br>Linkedin :<br>X ( Formally Twitter):<br>Medium :<br>Website
+Learning how Machines Learn <br>Currently working my way to open source <br>Linkedin :<br>X ( Formally Twitter):<br>Medium :https://medium.com/@namanverma00260 <br>Website
 
 
 # 💻 Tech Stack:
