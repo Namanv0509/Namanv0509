@@ -12,7 +12,6 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 </div>
 
 ###
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
