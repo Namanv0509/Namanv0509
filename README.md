@@ -15,7 +15,7 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Namanv0509&icon=0&color=0)](https://visitcount.itsvg.in)
+![[](https://visitcount.itsvg.in/api?id=Namanv0509&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ###
@@ -24,5 +24,5 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 
 <img src="https://raw.githubusercontent.com/Namanv0509/Namanv0509/output/snake.svg" alt="Snake animation" />
 
-
+![](https://playground.meshery.io/extension/meshmap?mode=design&design=dbfb44b7-5d93-4dc8-9ca7-8396dd0ecb9b)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
