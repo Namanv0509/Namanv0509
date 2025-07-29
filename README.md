@@ -24,8 +24,5 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 
 <img src="https://raw.githubusercontent.com/Namanv0509/Namanv0509/output/snake.svg" alt="Snake animation" />
 
-<!-- Learn more at https://docs.layer5.io/kanvas/designer/export-designs/#exporting-as-embedding -->
-<div id="embedded-design-c30516a2-2448-47d2-8fce-6758808c4614" style="height:100%;width:100%"></div>
-<script src="../embedded-design-kubernetes-workshop-image-5.js" type="module" ></script>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
