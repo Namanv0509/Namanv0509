@@ -25,4 +25,6 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
     <img width="224px" height="300px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 
+  [![An image of @namanv0509's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namanv0509)](https://holopin.io/@namanv0509)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
