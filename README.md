@@ -22,7 +22,7 @@ Learning how Machines Learn <br>Currently working my way to open source <br>Link
 ![](https://playground.meshery.io/extension/meshmap?mode=design&design=dbfb44b7-5d93-4dc8-9ca7-8396dd0ecb9b)
 
  <a href="https://cloud.layer5.io/user/dc3e97d1-eddb-4dcb-a28c-14a8026d72df?tab=badges&badge=hacktoberfest25">
-    <img width="224px" height="300px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
+    <img width="250px" height="360px" src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor"/>
   </a>
 
   [![An image of @namanv0509's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/namanv0509)](https://holopin.io/@namanv0509)
