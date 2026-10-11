@@ -1,7 +1,7 @@
 ## About Me
 **Hi, I am Naman Verma 👋**
 
- **Building Stuff in Public and Contributing**
+**I enjoy helping new developers get started with open source, find their place in the community, and make their first contributions.**
 
 **I have been recently building [ByteUI](https://www.npmjs.com/package/@explorers_111/byteui)**
 
