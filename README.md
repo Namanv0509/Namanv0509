@@ -1,9 +1,14 @@
+
+### **Hi, I am Naman Verma 👋**
+
 ## About Me
-**Hi, I am Naman Verma 👋**
 
-**I enjoy helping new developers get started with open source, find their place in the community, and make their first contributions.**
+- **Former LFX Mentee @Meshery**
 
-**I have been recently building [ByteUI](https://www.npmjs.com/package/@explorers_111/byteui)**
+- **I enjoy helping new developers get started with open source, find their place in the community, and make their first contributions.**
+
+- **I have been recently building [ByteUI](https://github.com/Namanv0509/ByteUI)** [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://byte-ui.vercel.app) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/package/@explorers_111/byteui)
+
 
 ## You can reach out to me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-verma-6948a72a5)
