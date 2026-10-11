@@ -1,9 +1,9 @@
 ## About Me
-Hi, I am Naman Verma 👋
+**Hi, I am Naman Verma 👋**
 
-Building Stuff in Public and Contributing
+ **Building Stuff in Public and Contributing**
 
-I have been recently building [ByteUI](https://www.npmjs.com/package/@explorers_111/byteui)
+**I have been recently building [ByteUI](https://www.npmjs.com/package/@explorers_111/byteui)**
 
 ## You can reach out to me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-verma-6948a72a5)
@@ -11,7 +11,7 @@ I have been recently building [ByteUI](https://www.npmjs.com/package/@explorers_
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@namanverma00260)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/~explorers_111)
 
-## Tech Stack:
+## Tech Stack
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 <!--![Namanv0509's Stats](https://github-readme-stats.vercel.app/api?username=Namanv0509&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 ###
